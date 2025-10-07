@@ -1,0 +1,39 @@
+{
+"id": "/#/",
+"start_url": "/#/",
+"scope": "/",
+"name": "BerbagiCerita App",
+"short_name": "BerbagiCerita",
+"description": "BerbagiCerita merupakan aplikasi untuk berbagi cerita melalui peta.",
+"display": "standalone",
+"background_color": "#FFFFFF",
+"theme_color": "#d97706",
+"icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "40x40",
+      "purpose": "any"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+"screenshots": [
+    {
+      "src": "screenshots/gambar1.png",
+      "sizes": "2864x1488",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshots/gambar2.png",
+      "sizes": "2864x1488",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
