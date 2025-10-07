@@ -1,2 +1,2 @@
-APP_URL=https://nandana05-tech.github.io/coba3/
+APP_URL=https://nandana05-tech.github.io/berbagi-cerita-melalui-maps/
 MAP_SERVICE_API_KEY=<api_key>
